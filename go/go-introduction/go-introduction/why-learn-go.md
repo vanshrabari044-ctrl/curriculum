@@ -1,3 +1,8 @@
+uuuj
+ur
+small game 
+blast 
+name is uuuj
 ---
 author: Stefan-Stojanovic
 type: normal
